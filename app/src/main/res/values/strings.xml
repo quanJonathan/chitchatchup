@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chit Chat Chup</string>
+    <string name="chatting">CHIT CHAT CHUP!</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="register">Register</string>
+    <string name="login">login</string>
+    <string name="log_out">Log out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lastest_message">Lastest message</string>
+    <string name="time">%s</string>
+    <string name="send_a_message">send a message</string>
+    <string name="time_mess">Time</string>
+    <string name="loading">Loading...</string>
+</resources>

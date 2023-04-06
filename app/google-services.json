@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "260516604109",
+    "firebase_url": "https://chat-2fbdf-default-rtdb.firebaseio.com",
+    "project_id": "chat-2fbdf",
+    "storage_bucket": "chat-2fbdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260516604109:android:e95e700661676a0faaa184",
+        "android_client_info": {
+          "package_name": "com.tuanquan.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260516604109-ebo2spe6ab6vn8sbmfaj5qt6ahdbh04c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArNAjXhmqjbmKSPop-J7CohuhDvs32xdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260516604109-ebo2spe6ab6vn8sbmfaj5qt6ahdbh04c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
